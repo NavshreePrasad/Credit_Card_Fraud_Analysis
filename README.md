@@ -214,7 +214,7 @@ Credit_Card_Fraud_Analysis/
 
 # 📈 Key Insights
 
-- 🚨 **Overall fraud rate is 1.70%** (339 of 20,000 transactions); the average fraud transaction (~$181) is higher than a genuine one (~$132).
+- 🚨 **Overall fraud rate is 1.70%** (339 of 20,000 transactions); the average fraud transaction is higher than a genuine one.
 - 🪙 **Crypto Exchange (4.99%) and Gift Cards (4.38%)** are the highest-risk merchant categories.
 - 🔓 **No authentication = 4.44% fraud**, versus **0.78% with biometrics**, the lowest of any method.
 - 🔁 **CVV retries are a strong signal:** fraud is 0.92% with no retries but **16.14% at 2 retries** and 13.33% at 3.
